@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="JiranJaga logo: a house with a check mark">
+  <rect width="120" height="120" rx="28" fill="#059669"/>
+  <path d="M60 20 L100 53 V91 a7 7 0 0 1 -7 7 H27 a7 7 0 0 1 -7 -7 V53 Z" fill="#FFFFFF"/>
+  <path d="M41 68 L54 81 L80 55" fill="none" stroke="#059669" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="96" cy="24" r="9" fill="#F59E0B"/>
+</svg>
